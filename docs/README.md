@@ -4,9 +4,9 @@
 
 - [新浪微博的微博](https://mafly.github.io/chinaetfs_public_saying/#/weibo_weibo/README)
 - [微信公众号的文章](https://mafly.github.io/chinaetfs_public_saying/#/wechat/README)
-- 雪球的文章
-- 网易博客的文章
-- 集思录的文章
+- [有知有行](https://youzhiyouxing.cn/topics/ezone/nodes/2)
+- [雪球的文章](https://mafly.github.io/chinaetfs_public_saying/#/xueqiu/README)
+
 
 以及其他与 E 大计划有关的文章。
 
