@@ -1,6 +1,9 @@
 * [首页](/)
 * [微博内容摘录](weibo_weibo/README)
 	* 2018 年
+		* [2018年6月](/weibo_weibo/201806)
+		* [2018年7月](/weibo_weibo/201807)
+		* [2018年8月](/weibo_weibo/201808)
 		* [2018年10月](weibo_weibo/201810.md)
 		* [2018年11月](weibo_weibo/201811.md)
 		* [2018年12月](weibo_weibo/201812.md)
@@ -11,6 +14,12 @@
 		* [2019年4月](weibo_weibo/201904.md)
 		* [2019年5月](weibo_weibo/201905.md)
 		* [2019年6月](weibo_weibo/201906.md)
+		* [2019年7月](/weibo_weibo/201907)
+		* [2019年8月](/weibo_weibo/201908)
+		* [2019年9月](/weibo_weibo/201909)
+		* [2019年10月](/weibo_weibo/201910)
+		* [2019年11月](/weibo_weibo/201911)
+		* [2019年12月](/weibo_weibo/201912)
 	* 2020 年	
 		* [2020年1月](/weibo_weibo/202001)
 		* [2020年2月](/weibo_weibo/202002)
